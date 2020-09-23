@@ -9,14 +9,14 @@ Prior experience in Python programming, basic machine learning theory, and have 
 04. AutoML Leaderboard and Ensemble Exploration
 05. Base Learner Exploration
 
-# Business Analyst:
+# Business Analyst
 Banking Institute:Enrollment of client in one of their product calle term deposits 
 
-# Machine learning platform used: 
+# Machine learning platform used
 H20--python ApIs|PAndas
 H20 takes care of modeling and hyper parameters   
 
-# Tool: 
+# Tool 
 AutoML--for data preprocessing
 
 Simplifies which model to train and how to evaluate them
