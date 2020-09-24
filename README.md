@@ -19,7 +19,6 @@ H20 takes care of modeling and hyper parameters
 # Tool 
 AutoML--for data preprocessing
 
-Simplifies which model to train and how to evaluate them
-1)Collect information
-2)Merge Information
+Simplifies which model to train and how to evaluate them 
+1)Collect Information
 3)Marketing Analysis
