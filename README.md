@@ -20,5 +20,6 @@ H20 takes care of modeling and hyper parameters
 AutoML--for data preprocessing
 
 Simplifies which model to train and how to evaluate them 
-1)Collect Information
-3)Marketing Analysis
+1. Collect Information
+2. Merge Information
+3. Marketing Analysis
