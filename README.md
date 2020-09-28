@@ -10,16 +10,16 @@ Prior experience in Python programming, basic machine learning theory, and have 
 05. Base Learner Exploration
 
 # Business Analyst
-Banking Institute:Enrollment of client in one of their product calle term deposits 
+Banking Institute- Enrollment of client in one of their product called term deposits 
 
 # Machine learning platform used
-H20--python ApIs|PAndas
+H20--python APIs|Pandas
 H20 takes care of modeling and hyper parameters   
 
 # Tool 
 AutoML--for data preprocessing
 
 Simplifies which model to train and how to evaluate them 
-1. Collect Information
-2. Merge Information
-3. Marketing Analysis
+01. Collect Information
+02. Merge Information
+03. Marketing Analysis
