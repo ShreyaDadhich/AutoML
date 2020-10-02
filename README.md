@@ -14,6 +14,7 @@ Banking Institute: Enrollment of client in one of their product called term depo
 
 ## Machine learning platform used
 H2O python APIs | Pandas
+
 H2O takes care of modeling and hyper parameters   
 
 ## Tool 
